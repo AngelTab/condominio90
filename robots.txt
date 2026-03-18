@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://angeltab.github.io/condominio90/sitemap.xml

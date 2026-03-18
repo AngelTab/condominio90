@@ -1,0 +1,142 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "ad5ef007288148d9b2303791adb5160c"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "62a2f78af0273a34c857fead405f6094"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "2110fdcc9616a96348b5f5ad11c64055"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e66ec016e1abd2297b17a5d038b695b7"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "d0fc1030089a37f93a2d51bf6d07565c"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/angel-tabares",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/angel-tabares/index.html",
+        "type": "file",
+        "md5": "7305051b462e1b629f925696c7ffed16"
+    },
+    {
+        "path": "condominio-90.html",
+        "type": "file",
+        "md5": "62969af8171a61a28fe1e545e9a526c4"
+    },
+    {
+        "path": "cuotas-de-mantenimiento.html",
+        "type": "file",
+        "md5": "a0f4bed27c7692e641be4ce2da25484c"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "d611193a1dc6e49521a5e94320365e53"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "646426c314284e99e3a34683aecdf10e"
+    },
+    {
+        "path": "galeria-de-fotos.html",
+        "type": "file",
+        "md5": "1cedf886d9b1e72c8351af73c95069f8"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "ac515124d464b61011f86e5ee7646b21"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "0febf8ab8fb1e57ea974f20c6b0396f8"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "209f0c2d450f9d136272a9ae9775ee7c"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "1dc99c8e83848046c2ed5488a69a23f4"
+    }
+]
